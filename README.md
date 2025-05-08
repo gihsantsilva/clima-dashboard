@@ -1,7 +1,3 @@
-Claro! Com base no seu projeto [`clima-dashboard`](https://github.com/gihsantsilva/clima-dashboard), aqui está um modelo de README adaptado no mesmo estilo que você indicou:
-
----
-
 # 🌤️ Clima Dashboard com Streamlit e SQLite
 
 Este projeto é uma aplicação web simples desenvolvida em Python com **Streamlit**, que permite consultar dados climáticos de cidades usando a API da OpenWeather. As informações obtidas são armazenadas em um banco de dados **SQLite** local e podem ser visualizadas na barra lateral como histórico de consultas.
