@@ -11,6 +11,7 @@ Este projeto é uma aplicação web simples desenvolvida em Python com **Streaml
 * [Configuração do Banco de Dados](#configuração-do-banco-de-dados)
 * [Como Executar o Projeto](#como-executar-o-projeto)
 * [Funcionalidades](#funcionalidades)
+* [Capturas de Tela](#capturas-de-tela)
 * [Licença](#licença)
 * [Contribuidores](#contribuidores)
 
@@ -84,6 +85,11 @@ O banco de dados **SQLite** é criado automaticamente com a tabela `clima` ao ro
 * 💾 Armazenar resultados no banco de dados.
 * 📜 Visualizar histórico de pesquisas na **sidebar**.
 * ⚠️ Mensagens de erro tratadas para conexões mal sucedidas ou cidades inexistentes.
+
+---
+
+## 🖼️ Capturas de Tela
+
 
 ---
 
