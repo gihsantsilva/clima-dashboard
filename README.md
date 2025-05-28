@@ -90,6 +90,11 @@ O banco de dados **SQLite** é criado automaticamente com a tabela `clima` ao ro
 
 ## 🖼️ Capturas de Tela
 
+#### Tela principal:
+![Captura de tela 2025-05-27 143159](https://github.com/user-attachments/assets/2c7a90cb-f994-40a6-a8af-764884a4488e)
+
+#### Exemplos de Uso:
+![Captura de tela 2025-05-27 143205](https://github.com/user-attachments/assets/92660b4e-5b68-439d-992d-4761459dff3c)
 
 ---
 
@@ -109,4 +114,5 @@ Este projeto é de uso educacional e pode ser livremente utilizado e modificado.
 ## 🙋 Contribuidores
 
 * [Giovanna Silva](https://github.com/gihsantsilva) – Responsável pelo desenvolvimento completo da aplicação, incluindo a integração com a API de clima, interface com Streamlit e persistência de dados via PostgreSQL.
-* [João Nogueira](https://github.com/nogueirahyper) - Responsável pela configuração e publicação da aplicação em ambiente de nuvem, garantindo seu acesso remoto e funcionamento online.
+
+---
