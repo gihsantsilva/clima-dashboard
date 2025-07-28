@@ -1,9 +1,3 @@
-Não consegui acessar diretamente o seu repositório pelo link, mas posso corrigir o README com base nas mudanças que você descreveu — substituindo **SQLite** por **PostgreSQL** e ajustando as instruções para o banco correto.
-
-Segue a versão revisada:
-
----
-
 # 🌤️ Clima Dashboard com Streamlit e PostgreSQL
 
 Este projeto é uma aplicação web simples desenvolvida em Python com **Streamlit**, que permite consultar dados climáticos de cidades usando a API da OpenWeather. As informações obtidas são armazenadas em um banco de dados **PostgreSQL** e podem ser visualizadas na barra lateral como histórico de consultas.
